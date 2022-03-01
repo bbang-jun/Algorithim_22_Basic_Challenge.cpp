@@ -57,6 +57,21 @@
     <ClCompile Include="Day7_2753.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day8_16430.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Day8_10797.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Day8_3028.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Day9_10101.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Day9_2420.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Day6_11718.cpp">
