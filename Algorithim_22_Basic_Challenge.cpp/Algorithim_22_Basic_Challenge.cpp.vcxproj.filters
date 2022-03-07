@@ -93,6 +93,9 @@
     <ClCompile Include="Day14_2864.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day15_14487.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Day6_11718.cpp">
